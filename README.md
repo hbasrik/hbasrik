@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hasan Basri Kocagol</h1>
-<h3 align="center">A passionate Software Engineer from Ankara,Turkiye</h3>
+![2024-10-15-Hi-I-m-Hasan-Basri-Kocagol](https://github.com/user-attachments/assets/2215768b-6247-4c24-8700-2ad652ff7583)
+<h3 align="center"></h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif">
+
+- A passionate Software Engineer from Ankara,Turkiye
 
 - 🔭 I’m currently working on **full-stack web applications.**
 
