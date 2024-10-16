@@ -4,7 +4,9 @@
 <img align="right" alt="Coding" width="400"  src="https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif">
 
 <h3 align="left">Education 🎓</h3>
- B.Sc. in Information Systems and Technologies, Bilkent University, Ankara
+ B.Sc. in Information Systems and Technologies
+ <br/>
+ Bilkent University, Ankara
 
 ## 
 - A passionate Software Engineer from Ankara,Turkiye.
