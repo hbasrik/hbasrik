@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400"  src="https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif">
 
-- A passionate Software Engineer from Ankara,Turkiye
+- A passionate Software Engineer graduated from Bilkent University Computer Technology and Information Systems Ankara,Turkiye
 
 - 🔭 I’m currently working on **full-stack web applications.**
 
