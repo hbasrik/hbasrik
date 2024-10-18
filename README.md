@@ -12,7 +12,7 @@
 - A passionate Software Engineer from Ankara,Turkiye.
 
 - 🔭 I’m currently working on **full-stack web applications.**
-- 🤖 I’m interested in **Machine Learning and Deep Learning**
+- 🤖 I’m interested in **Machine Learning and Deep Learning.**
 
 - 📫 How to reach me **hasanbkocagol@gmail.com**
 
