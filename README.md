@@ -6,7 +6,7 @@
 <h3 align="left">Education 🎓</h3>
  B.Sc. in Information Systems and Technologies
  <br/>
- Bilkent University, Ankara
+ Bilkent University
 
 ##
 
